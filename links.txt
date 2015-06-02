@@ -1,0 +1,38 @@
+
+The series is uploaded by--
+
+saurabhschool
+Programming Interview: Dynamic Programming: Coin Change Problem
+https://www.youtube.com/watch?v=GafjS0FfAC0&index=1&list=PL962BEE1A26238CA3
+Programming Interview: Dynamic Programming: Maximum Sub-Sequence Sum
+https://www.youtube.com/watch?v=hXlv88ddcgw&index=2&list=PL962BEE1A26238CA3
+Programming Interview: Longest Increasing Sub-sequence (Dynamic Programming)
+https://www.youtube.com/watch?v=U-xOVWlcgmM&index=3&list=PL962BEE1A26238CA3
+Programming Interview: Cutting a Rod (Dynamic Programming)
+https://www.youtube.com/watch?v=U-09Gs6cbsQ&index=4&list=PL962BEE1A26238CA3
+Programming Interview: Longest Palindromic Subsequence (Dynamic Programming)
+https://www.youtube.com/watch?v=Mbav2iuJ7xQ&index=5&list=PL962BEE1A26238CA3
+Programming Interview: Matrix Chain Multiplication (Dynamic Programming)
+https://www.youtube.com/watch?v=OSkllTB2aW4&index=6&list=PL962BEE1A26238CA3
+Programming Interview: 0/1 Knapsack Problem (Dynamic Programming)
+https://www.youtube.com/watch?v=UhFvK3uERGg&index=7&list=PL962BEE1A26238CA3
+Programming Interview: Optimal Binary Search Tree (Dynamic Programming)
+https://www.youtube.com/watch?v=DEOebw3vmXs&index=8&list=PL962BEE1A26238CA3
+Programming Interview: Balanced Partition of Array (Dynamic Programming)
+https://www.youtube.com/watch?v=GdnpQY2j064&index=9&list=PL962BEE1A26238CA3
+Programming Interview: Maximum Sub-Matrix Sum (Dynamic Programming)
+https://www.youtube.com/watch?v=siaRlAtip9I&index=10&list=PL962BEE1A26238CA3
+Programming Interview: Longest Common Subsequence Dynamic Programming
+https://www.youtube.com/watch?v=wJ-rP9hJXO0&index=11&list=PL962BEE1A26238CA3
+Programming Interview: All Pair Shortest Path  (Floyd Warshall ) Dynamic Programming
+https://www.youtube.com/watch?v=EMAoMMsA5Jg&index=12&list=PL962BEE1A26238CA3
+Programming Interview: Travelling Salesman Problem (Dynamic Programming)
+https://www.youtube.com/watch?v=aQB_Y9D5pdw&index=13&list=PL962BEE1A26238CA3
+Programming Interview: Shortest Path in multistage graph using dynamic programming  (Part 1)
+https://www.youtube.com/watch?v=m5Y-4TsXsJ0&index=14&list=PL962BEE1A26238CA3
+Programming Interview: Shortest Path in multistage graph using dynamic programming  (Part 2) Example
+https://www.youtube.com/watch?v=PIwIjg6dCxM&index=15&list=PL962BEE1A26238CA3
+Programming Interview: Edit Distance Dynamic Programming Algorithm (Part 1)
+https://www.youtube.com/watch?v=-umsVjd2EF0&index=16&list=PL962BEE1A26238CA3
+Programming Interview:  Edit Distance Dynamic Programming Algorithm Example (Part 2)
+https://www.youtube.com/watch?v=iYa9AqB3wPc&index=17&list=PL962BEE1A26238CA3
