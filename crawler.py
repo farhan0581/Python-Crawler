@@ -17,7 +17,7 @@ def callcrawler():
 		
 		try:
 
-			f=open('links.txt','w')
+			f=open('links.txt','a+')
 			dat=requests.get(info)
 			data=dat.text
 			soup=BeautifulSoup(data)

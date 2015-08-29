@@ -1,38 +1,202 @@
 
 The series is uploaded by--
 
-saurabhschool
-Programming Interview: Dynamic Programming: Coin Change Problem
-https://www.youtube.com/watch?v=GafjS0FfAC0&index=1&list=PL962BEE1A26238CA3
-Programming Interview: Dynamic Programming: Maximum Sub-Sequence Sum
-https://www.youtube.com/watch?v=hXlv88ddcgw&index=2&list=PL962BEE1A26238CA3
-Programming Interview: Longest Increasing Sub-sequence (Dynamic Programming)
-https://www.youtube.com/watch?v=U-xOVWlcgmM&index=3&list=PL962BEE1A26238CA3
-Programming Interview: Cutting a Rod (Dynamic Programming)
-https://www.youtube.com/watch?v=U-09Gs6cbsQ&index=4&list=PL962BEE1A26238CA3
-Programming Interview: Longest Palindromic Subsequence (Dynamic Programming)
-https://www.youtube.com/watch?v=Mbav2iuJ7xQ&index=5&list=PL962BEE1A26238CA3
-Programming Interview: Matrix Chain Multiplication (Dynamic Programming)
-https://www.youtube.com/watch?v=OSkllTB2aW4&index=6&list=PL962BEE1A26238CA3
-Programming Interview: 0/1 Knapsack Problem (Dynamic Programming)
-https://www.youtube.com/watch?v=UhFvK3uERGg&index=7&list=PL962BEE1A26238CA3
-Programming Interview: Optimal Binary Search Tree (Dynamic Programming)
-https://www.youtube.com/watch?v=DEOebw3vmXs&index=8&list=PL962BEE1A26238CA3
-Programming Interview: Balanced Partition of Array (Dynamic Programming)
-https://www.youtube.com/watch?v=GdnpQY2j064&index=9&list=PL962BEE1A26238CA3
-Programming Interview: Maximum Sub-Matrix Sum (Dynamic Programming)
-https://www.youtube.com/watch?v=siaRlAtip9I&index=10&list=PL962BEE1A26238CA3
-Programming Interview: Longest Common Subsequence Dynamic Programming
-https://www.youtube.com/watch?v=wJ-rP9hJXO0&index=11&list=PL962BEE1A26238CA3
-Programming Interview: All Pair Shortest Path  (Floyd Warshall ) Dynamic Programming
-https://www.youtube.com/watch?v=EMAoMMsA5Jg&index=12&list=PL962BEE1A26238CA3
-Programming Interview: Travelling Salesman Problem (Dynamic Programming)
-https://www.youtube.com/watch?v=aQB_Y9D5pdw&index=13&list=PL962BEE1A26238CA3
-Programming Interview: Shortest Path in multistage graph using dynamic programming  (Part 1)
-https://www.youtube.com/watch?v=m5Y-4TsXsJ0&index=14&list=PL962BEE1A26238CA3
-Programming Interview: Shortest Path in multistage graph using dynamic programming  (Part 2) Example
-https://www.youtube.com/watch?v=PIwIjg6dCxM&index=15&list=PL962BEE1A26238CA3
-Programming Interview: Edit Distance Dynamic Programming Algorithm (Part 1)
-https://www.youtube.com/watch?v=-umsVjd2EF0&index=16&list=PL962BEE1A26238CA3
-Programming Interview:  Edit Distance Dynamic Programming Algorithm Example (Part 2)
-https://www.youtube.com/watch?v=iYa9AqB3wPc&index=17&list=PL962BEE1A26238CA3
+phpacademy
+PHP Best Practices: Password Hashing (1/11)
+https://www.youtube.com/watch?v=LF3YooFv6sY&index=1&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: PHP Tags (2/11)
+https://www.youtube.com/watch?v=yHdVvg7YjIY&index=2&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: Micro Optimisation (3/11)
+https://www.youtube.com/watch?v=sbGUCXTu5PA&index=3&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: Email (4/11)
+https://www.youtube.com/watch?v=jsmF7yj5fPw&index=4&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: Singletons (5/11)
+https://www.youtube.com/watch?v=M0TrivzF9HM&index=5&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: Dependency Injection (6/11)
+https://www.youtube.com/watch?v=RQur6UFoGY4&index=6&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: Sanitising Output (7/11)
+https://www.youtube.com/watch?v=LM25Sm2z-Mk&index=7&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: Consistency (8/11)
+https://www.youtube.com/watch?v=lQipihXKMZk&index=8&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: Composer (9/11)
+https://www.youtube.com/watch?v=q1cjTCY6b7c&index=9&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: Validating Email Addresses (10/11)
+https://www.youtube.com/watch?v=YZPDvZEkAJg&index=10&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+PHP Best Practices: DateTime (11/11)
+https://www.youtube.com/watch?v=IdIv-z-7yv8&index=11&list=PLfdtiltiRHWHCuQl1HY1jHpD8Zxatjmjr
+
+The series is uploaded by--
+
+phpacademy
+Node.js Real Time Chat: Introduction (Part 1/7)
+https://www.youtube.com/watch?v=QISU14OrRbI&list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_&index=1
+Node.js Real Time Chat: Design (Part 2/7)
+https://www.youtube.com/watch?v=ixDhEZJBmmA&list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_&index=2
+Node.js Real Time Chat: Node and MongoDB (Part 3/7)
+https://www.youtube.com/watch?v=t_I8QoKTq_c&list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_&index=3
+Node.js Real Time Chat: Inserting Data (Part 4/7)
+https://www.youtube.com/watch?v=GkXQEwHn2nA&list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_&index=4
+Node.js Real Time Chat: Sending Messages (Part 5/7)
+https://www.youtube.com/watch?v=7WAH47DBV6g&list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_&index=5
+Node.js Real Time Chat: Outputting Statuses (Part 6/7)
+https://www.youtube.com/watch?v=3iKLwqxjmJc&list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_&index=6
+Node.js Real Time Chat: Output Chat Messages (Part 7/7)
+https://www.youtube.com/watch?v=-KzIipi4Cvg&list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_&index=7
+
+The series is uploaded by--
+
+phpacademy
+PHP Authentication: Introduction (1/30)
+https://www.youtube.com/watch?v=YXKCNgfdAAM&index=1&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Dependencies (2/30)
+https://www.youtube.com/watch?v=4N1ufhv4kzQ&index=2&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Setting Up (3/30)
+https://www.youtube.com/watch?v=B5tQoU5vMK0&index=3&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Configuration (4/30)
+https://www.youtube.com/watch?v=2m8lW6m64HM&index=4&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Users Table (5/30)
+https://www.youtube.com/watch?v=zdfdnlIrdCw&index=5&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Adding Database Support (6/30)
+https://www.youtube.com/watch?v=qWD14nlKsew&index=6&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: User Model (7/30)
+https://www.youtube.com/watch?v=PF2WkRCZfBg&index=7&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Routes & Views (8/30)
+https://www.youtube.com/watch?v=Lgcat0WkuE0&index=8&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Flashing Messages (9/30)
+https://www.youtube.com/watch?v=KYtFVDmZ5U4&index=9&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Password Hashing (10/30)
+https://www.youtube.com/watch?v=1OCrZO7N1GM&index=10&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Registering (11/30)
+https://www.youtube.com/watch?v=waaB_FTys7g&index=11&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Validation (12/30)
+https://www.youtube.com/watch?v=0mjDJTfGbL8&index=12&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Unique Emails/Usernames (13/30)
+https://www.youtube.com/watch?v=b5OMJfGY1Dg&index=13&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Logging In (14/30)
+https://www.youtube.com/watch?v=UK4hUz7dk6c&index=14&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Sending Email (15/30)
+https://www.youtube.com/watch?v=frfHPD9NFF4&index=15&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Email Templates (16/30)
+https://www.youtube.com/watch?v=aF8sm06OeE0&index=16&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Hashing & Random Strings (17/30)
+https://www.youtube.com/watch?v=8WczdMaiaPQ&index=17&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Account Activation (18/30)
+https://www.youtube.com/watch?v=YhCUMIsqI1E&index=18&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Filters (19/30)
+https://www.youtube.com/watch?v=wJw1Tl_-KiI&index=19&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: CSRF Protection (20/30)
+https://www.youtube.com/watch?v=_FzgdoHlXaU&index=20&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Logging Out (21/30)
+https://www.youtube.com/watch?v=F8UHDDA0gOY&index=21&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Profile Pictures (22/30)
+https://www.youtube.com/watch?v=CLq_6_YPGKI&index=22&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Remember Me (23/30)
+https://www.youtube.com/watch?v=XbQyOiEFDj0&index=23&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: User Profile (24/30)
+https://www.youtube.com/watch?v=XSHYGLdySW0&index=24&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: List All Users (25/30)
+https://www.youtube.com/watch?v=dOJetM8zGzI&index=25&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: User Permissions (26/30)
+https://www.youtube.com/watch?v=LJJXCni8mNc&index=26&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Custom 404 Page (27/30)
+https://www.youtube.com/watch?v=WD140gb0brg&index=27&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Change Password (28/30)
+https://www.youtube.com/watch?v=1y4dpv5CemQ&index=28&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Forgot Password (29/30)
+https://www.youtube.com/watch?v=nTWK0-1TBA4&index=29&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Update User Profile (30/30)
+https://www.youtube.com/watch?v=QsMT6n375-M&index=30&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Fix Signing In For Inactive Users
+https://www.youtube.com/watch?v=Z-qk-vPaoMM&index=31&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+
+The series is uploaded by--
+
+phpacademy
+PHP Authentication: Introduction (1/30)
+https://www.youtube.com/watch?v=YXKCNgfdAAM&index=1&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Dependencies (2/30)
+https://www.youtube.com/watch?v=4N1ufhv4kzQ&index=2&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Setting Up (3/30)
+https://www.youtube.com/watch?v=B5tQoU5vMK0&index=3&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Configuration (4/30)
+https://www.youtube.com/watch?v=2m8lW6m64HM&index=4&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Users Table (5/30)
+https://www.youtube.com/watch?v=zdfdnlIrdCw&index=5&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Adding Database Support (6/30)
+https://www.youtube.com/watch?v=qWD14nlKsew&index=6&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: User Model (7/30)
+https://www.youtube.com/watch?v=PF2WkRCZfBg&index=7&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Routes & Views (8/30)
+https://www.youtube.com/watch?v=Lgcat0WkuE0&index=8&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Flashing Messages (9/30)
+https://www.youtube.com/watch?v=KYtFVDmZ5U4&index=9&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Password Hashing (10/30)
+https://www.youtube.com/watch?v=1OCrZO7N1GM&index=10&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Registering (11/30)
+https://www.youtube.com/watch?v=waaB_FTys7g&index=11&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Validation (12/30)
+https://www.youtube.com/watch?v=0mjDJTfGbL8&index=12&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Unique Emails/Usernames (13/30)
+https://www.youtube.com/watch?v=b5OMJfGY1Dg&index=13&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Logging In (14/30)
+https://www.youtube.com/watch?v=UK4hUz7dk6c&index=14&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Sending Email (15/30)
+https://www.youtube.com/watch?v=frfHPD9NFF4&index=15&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Email Templates (16/30)
+https://www.youtube.com/watch?v=aF8sm06OeE0&index=16&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Hashing & Random Strings (17/30)
+https://www.youtube.com/watch?v=8WczdMaiaPQ&index=17&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Account Activation (18/30)
+https://www.youtube.com/watch?v=YhCUMIsqI1E&index=18&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Filters (19/30)
+https://www.youtube.com/watch?v=wJw1Tl_-KiI&index=19&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: CSRF Protection (20/30)
+https://www.youtube.com/watch?v=_FzgdoHlXaU&index=20&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Logging Out (21/30)
+https://www.youtube.com/watch?v=F8UHDDA0gOY&index=21&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Profile Pictures (22/30)
+https://www.youtube.com/watch?v=CLq_6_YPGKI&index=22&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Remember Me (23/30)
+https://www.youtube.com/watch?v=XbQyOiEFDj0&index=23&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: User Profile (24/30)
+https://www.youtube.com/watch?v=XSHYGLdySW0&index=24&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: List All Users (25/30)
+https://www.youtube.com/watch?v=dOJetM8zGzI&index=25&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: User Permissions (26/30)
+https://www.youtube.com/watch?v=LJJXCni8mNc&index=26&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Custom 404 Page (27/30)
+https://www.youtube.com/watch?v=WD140gb0brg&index=27&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Change Password (28/30)
+https://www.youtube.com/watch?v=1y4dpv5CemQ&index=28&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Forgot Password (29/30)
+https://www.youtube.com/watch?v=nTWK0-1TBA4&index=29&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Update User Profile (30/30)
+https://www.youtube.com/watch?v=QsMT6n375-M&index=30&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+PHP Authentication: Fix Signing In For Inactive Users
+https://www.youtube.com/watch?v=Z-qk-vPaoMM&index=31&list=PLfdtiltiRHWGKUvioJly40RJZchSG2-34
+
+The series is uploaded by--
+
+phpacademy
+Learn Regular Expressions: Introduction
+https://www.youtube.com/watch?v=GVZOJ1rEnUg&index=1&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Dot Matches
+https://www.youtube.com/watch?v=1SSfRjidYDM&index=2&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Optional
+https://www.youtube.com/watch?v=fCOt9dRCBNc&index=3&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Character Set
+https://www.youtube.com/watch?v=2Y-alrCHm_w&index=4&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Multiple
+https://www.youtube.com/watch?v=GH-6jkaKe8A&index=5&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Alternations
+https://www.youtube.com/watch?v=OjirRdtGTL4&index=6&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: JavaScript & PHP Examples
+https://www.youtube.com/watch?v=9Tfq5Gt5MOo&index=7&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Groups
+https://www.youtube.com/watch?v=CdxoFdbviCo&index=8&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Quantifiers
+https://www.youtube.com/watch?v=RedSDQdgdZA&index=9&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Anchors & Flags
+https://www.youtube.com/watch?v=OqVkOB2-shg&index=10&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
+Learn Regular Expressions: Let's Write Some Expressions!
+https://www.youtube.com/watch?v=OSEXJlyJq7c&index=11&list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w
